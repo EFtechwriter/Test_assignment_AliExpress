@@ -2,13 +2,12 @@ How to Search for and Buy Products from AliExpress
 =============
 **Table of contents**
 
-How to Search for and Buy Products from AliExpress	
-Log in to your account	
-Search for items	
-Shipping details and payment methods	
+1. [Sign in to your account](#sign-in-to-your-account)	
+2. [Search for items](#search-for-items)
+3. [Shipping details and payment methods](#shipping-details-and-payment-methods)	
 
 
-## Log in to your account
+## Sign in to your account
 
 1.	Open your web browser and go to www.aliexpress.ru. Click **Sign In** in the upper-right corner.
 
@@ -29,7 +28,7 @@ For a different authorization method, select **Sign in via social networks.**
  
 4.	The sidebar on the left represents a list of different filtering options to further refine your search, such as delivery terms, price range, product category.
 
-![Sidebar](pics2/sidebar) 
+![Sidebar](pics2/sidebar.png) 
 
 5.	You can also search products by categories. Go to the left side of the homepage to see the **Categories** menu.
 
@@ -57,7 +56,7 @@ Check your shipping address before placing an order.
 
  ![Address](pics2/changeaddress.png) 
  
- Then click **Choose payment method**.  
+ Then click **Payment options**.  
  
   ![Payment](pics2/choosepay.png) 
  
