@@ -50,7 +50,6 @@ Then click on the subcategory that applies most to what you’re looking for.
 
 9.	On the checkout page, you can view the estimated delivery date, select a payment method, shipping details, and enter a coupon code if available.
 
-![Buy](pics2/Buynow1.png) 
 
 Check your shipping address before placing an order. 
 
